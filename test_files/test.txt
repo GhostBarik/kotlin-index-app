@@ -1,0 +1,2 @@
+Take a Kotlin for example.
+kotlin is a damn fine language!
